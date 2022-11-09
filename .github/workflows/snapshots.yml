@@ -1,3 +1,0 @@
-- name: Home
-  url: https://sites.google.com/view/fondachuy/home
-  waitForTimeout: 6000
