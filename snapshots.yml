@@ -1,3 +1,6 @@
 - name: Home
   url: https://sites.google.com/view/fondachuy/home
   waitForTimeout: 10000
+- name: Home
+  url: https://sites.google.com/view/fondachuy/contact-us
+  waitForTimeout: 10000
